@@ -63,6 +63,11 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
+            <Link to="/Artikel" className="text-white">
+              Artikel
+            </Link>
+          </li>
+          <li>
             <details>
               <summary className="text-white">Parent</summary>
               <ul className="p-2 bg-violet-500/50">
